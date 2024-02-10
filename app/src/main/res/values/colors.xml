@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5768CA</color>
+    <color name="colorPrimaryDark">#79B9EC</color>
+    <color name="colorAccent">#1E4E49</color>
+
+    <!-- Culori particularizate: -->
+    <color name="colorLightBerry">#ffc1e3</color>
+    <color name="colorGold">#FF9800</color>
+    <color name="colorDarkBerry">#6914FF</color>
+    <color name="colorLightOrange">#ffe97d</color>
+    <color name="colorOrange">#ffb74d</color>
+    <color name="colorDarkOrange">#c88719</color>
+    <color name="colorLightGreen">#E3410E</color>
+    <color name="colorGreen">#4caf50</color>
+    <color name="colorDarkGreen">#087f23</color>
+    <color name="colorBackgroundRose">#ffebee</color>
+    <color name="colorTitleBar">#00695c</color>
+    <color name="colorRed">#A12834</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlue">#2C589E</color>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="proiect.DumitrescuMircea.aplicaiemobildestinataturistilororasului">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppThemeWarm">
+
+
+
+        <activity
+            android:name=".ActivitateGrafic"
+            android:label="@string/activitate_grafic_titlu"/>
+        <activity
+            android:name=".ActivitateRaport2"
+            android:label="@string/activitate_raport_2_titlu" />
+        <activity
+            android:name=".ActivitateRaport1"
+            android:label="@string/activitate_raport_1_titlu" />
+        <activity
+            android:name=".ActivitateRapoarte"
+            android:label="@string/activitate_rapoarte_titlu" />
+        <activity
+            android:name=".ActivitateTuristicaEdit"
+            android:label="@string/activitate_activitate_titlu" />
+        <activity
+            android:name=".ActivitateRestaurantEdit"
+            android:label="@string/activitate_restaurant_edit_titlu" />
+        <activity
+            android:name=".ActivitateTuristicaAdd"
+            android:label="@string/activitate_activitate_add_titlu" />
+        <activity
+            android:name=".ActivitateRestaurantAdd"
+            android:label="@string/activitate_restaurant_add_titlu" />
+        <activity
+            android:name=".ActivitateUtilizator"
+            android:label="@string/activitate_utilizator_titlu" />
+        <activity
+            android:name=".ActivitateDespre"
+            android:label="@string/activitate_despre_titlu" />
+        <activity
+            android:name=".ActivitateTuristica"
+            android:label="@string/activitate_activitate_titlu" />
+        <activity
+            android:name=".ActivitateRestaurant"
+            android:label="@string/activitate_restaurant_titlu" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

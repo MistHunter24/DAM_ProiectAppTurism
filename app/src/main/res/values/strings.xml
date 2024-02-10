@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Tulcea Tourist App</string>
+    <string name="activitate_activitate_titlu">Lista activitati</string>
+    <string name="activitate_restaurant_titlu">Lista restaurant</string>
+    <string name="activitate_comunicatii_titlu">Comunicatii externe</string>
+    <string name="activitate_despre_titlu">Despre</string>
+    <string name="activitate_utilizator_titlu">Informatii utilizator</string>
+    <string name="activitate_restaurant_add_titlu">Adauga restaurant</string>
+    <string name="activitate_activitate_add_titlu">Adauga activitate</string>
+    <string name="activitate_restaurant_edit_titlu">Editeaza sau sterge restaurant</string>
+    <string name="activitate_activitate_edit_titlu">Editeaza sau sterge activitate </string>
+    <string name="activitate_rapoarte_titlu">Rapoarte</string>
+    <string name="activitate_raport_1_titlu">Raport activitati - luna curenta</string>
+    <string name="activitate_raport_2_titlu">Raport restaurante</string>
+    <string name="activitate_grafic_titlu">Grafic restaurant</string>
+    <string name="descriere_app">Aplicație mobilă destinată turiștilor orașului/județului natal</string>
+    <string name="restaurant_btn">Restaurant</string>
+    <string name="descriere_restaurant">Accesati lista de restaurante a orasului</string>
+    <string name="activitate_vizitare_btn">Activitati</string>
+    <string name="descriere_activitate">Accesati lista de activitati disponibile</string>
+    <string name="app_image">App image</string>
+    <string name="descriere_acces_json">Informatii externe preluate de pe internet</string>
+    <string name="acces_json_btn">Acces extern</string>
+    <string name="menu_utilizator">Utilizator</string>
+    <string name="menu_despre">Despre</string>
+    <string name="add_et_denumire_hint">Denumire Restaurant</string>
+    <string name="add_et_denumire_activitate_hint">Denumire activitate</string>
+    <string name="perioada">Masa luata in perioada:</string>
+    <string name="mic_dejun">Mic dejun</string>
+    <string name="pranz">Pranz</string>
+    <string name="cina">Cina</string>
+    <string name="snack">Gustare</string>
+    <string name="tv_mese_add_recenzie">Scurta recenzie a mesei:</string>
+    <string name="et_mese_add_hint">Text recenzie</string>
+    <string name="tv_mese_add_nota_restaurant">Nota:</string>
+    <string name="data">Data:</string>
+    <string name="btn_salveaza">Salveaza</string>
+    <string name="data_intrarii">Data intrarii</string>
+    <string name="validare_nume_activitate">Introduceti o denumire pentru noua activitate</string>
+    <string name="validare_nota_activitate">Introduceti nota activitatii</string>
+    <string name="validare_numar_pozitiv_nota">Nota nu poate fi mai mare de 5</string>
+    <string name="validare_data_activitate">Data intrarii este incorecta! Format corect: dd-MM-yyyy</string>
+    <string name="validare_an_curent">Introduceti anul curent sau anul anterior. Aplicatia nu permite intrari mai vechi de un an calendaristic</string>
+    <string name="validare_zi_luna">Ziua sau luna introdusa este gresita</string>
+    <string name="adapter_no_content"> -</string>
+    <string name="adapter_nota_restaurant">Nota restaurant = </string>
+    <string name="tv_activitate_add_minute">Durata activitatii:</string>
+    <string name="et_activitate_minute_hint">Durata</string>
+    <string name="tv_activitate_add_nota">Nota acordata:</string>
+    <string name="note_acordate">Nota</string>
+    <string name="despre_descriere_iv">Imagine importata in drawable</string>
+    <string name="despre_grupa">An suplimentar</string>
+    <string name="despre_back_to_main">Inapoi in meniul principal</string>
+    <string name="despre_proiect">Proiect pentru programarea aplicatiilor mobile</string>
+    <string name="despre_autor">Student: Dumitrescu Mircea</string>
+    <string name="rate_me">Rate me!</string>
+    <string name="eroare_incarcarea_imaginii">Eroare la incarcarea imaginii</string>
+    <string name="eroare_alegere_imagine">Nu ai ales nicio imagine!</string>
+    <string name="imaginea_utilizatorului">Imaginea utilizatorului</string>
+    <string name="user_btn_text">Incarca imaginea</string>
+    <string name="user_tv_descriere_iv">Incarca avatarul utilizatorului din galeria dispozitivului</string>
+    <string name="user_hint_et_sex">Sex</string>
+    <string name="user_tv_sex">Sexul utilizatorului</string>
+    <string name="user_tv_nume">Numele utilizatorului</string>
+    <string name="user_et_hint_nume">Nume utilizator</string>
+    <string name="user_tv_varsta">Varsta utilizatorului (ani)</string>
+    <string name="user_et_varsta">Varsta</string>
+    <string name="lv_json_image_description">Imaginea locatiei</string>
+    <string name="btn_anuleaza">Anuleaza</string>
+    <string name="menu_principal">Meniu principal</string>
+    <string name="alerta_stergere_dialog">Esti sigur ca doresti stergerea intrarii?</string>
+    <string name="btn_sterge">Sterge</string>
+    <string name="descriere_tv_rapoarte">Acces la rapoarte</string>
+    <string name="rapoarte_btn">Rapoarte</string>
+    <string name="rapoarte_tv_1">Raport activitati in luna curenta</string>
+    <string name="btn_executa_raportul">Executa raportul</string>
+    <string name="rapoarte_tv_2">Raport analiza notelor la data introdusa</string>
+    <string name="rapoarte_et_hint">Introduceti data pentru care doriti raportul</string>
+    <string name="btn_inapoi_la_rapoarte">Inapoi la rapoarte</string>
+    <string name="raport_2_tv_bilant_titlu">Bilantul zilnic al notelor:</string>
+    <string name="raport_2_tv_explicatii">Raportul calculeaza punctajul locatiilor vizitate de la data aleasa. Se calculeaza adunand notele acordate restaurantelor si activitatilor din ziua respectiva</string>
+    <string name="raport_2_afisare_data">Data raportului:\u0020%1s</string>
+    <string name="raport_2_afisare_note_restaurant">Note acordate:\u0020%1d</string>
+    <string name="raport_2_afisare_note_activitati">Activitati desfasurate:\u0020%1d</string>
+    <string name="raport_2_afisare_bilant">Bilantul zilei\u0020</string>
+    <string name="raport_2_obiective_vizitate">\Ai vizitat\u0020%1d locatii</string>
+    <string name="raport_2_obiective_nevizitate">\Ai vizitat doar \u0020%1d locatii</string>
+    <string name="raport_2_activitati_inexistente">Activitati inexistente pe ziua\u0020%1s</string>
+    <string name="grafic_2_fara_mese">Nu sunt intrari pe data de\u0020%1s</string>
+    <string name="grafic_2_cu_mese">Restaurante vizitate la \u0020%1s</string>
+    <string name="btn_genereaza_grafic">Genereaza grafic</string>
+    <string name="menu_lista_activitati_fizice">Lista activitati</string>
+    <string name="menu_rapoarte">Rapoarte</string>
+    <string name="menu_lista_mese">Lista restaurante</string>
+    <string name="graph_description">Note / restaurant</string>
+    <string name="adapter_activitate_minute">Minute activitate%1d</string>
+
+    <string name="menu_map">Locatie</string>
+
+    <string-array name="spn_restaurant_add_nota">
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>2.5</item>
+        <item>3</item>
+        <item>3.5</item>
+        <item>4</item>
+        <item>4.5</item>
+        <item>5</item>
+    </string-array>
+</resources>

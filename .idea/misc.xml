@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3880208333333333" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3880208333333333" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/layout/activitate_activitate_edit.xml" value="0.18055555555555555" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/layout/activitate_add.xml" value="0.371875" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/layout/activitate_despre.xml" value="0.5" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/layout/activitate_rapoarte.xml" value="0.209375" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/layout/activitate_raport1.xml" value="0.209375" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/layout/activitate_restaurant_add.xml" value="0.25" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/layout/activitate_restaurant_edit.xml" value="0.22" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/layout/activitate_utilizator.xml" value="0.33" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/layout/activity_lista_activitate_turistica.xml" value="0.2" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/layout/activity_lista_mese.xml" value="0.371875" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/layout/activity_main.xml" value="0.20885416666666667" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/layout/lv_activitate_turistica.xml" value="0.20885416666666667" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/layout/lv_json.xml" value="0.209375" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/layout/lv_raport.xml" value="0.209375" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/layout/lv_restaurant.xml" value="0.371875" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/menu/app_add_activitate_turistica_menu.xml" value="0.371875" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/menu/app_add_restaurant_menu.xml" value="0.371875" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/menu/app_main_menu.xml" value="0.20885416666666667" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/menu/app_rapoarte_menu.xml" value="0.371875" />
+        <entry key="..\:/Documents/Facultate/An3bis/sem1/DAM/DumitrescuMircea_anS_AplicatieMobilaDestinataTuristilor/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3880208333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
